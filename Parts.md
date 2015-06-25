@@ -16,6 +16,8 @@
 |[Металические профили](http://ru.aliexpress.com/item/Reprap-ADAPTO-3D-Printer-frame-2020-Aluminum-extrusions-T-slot-Aluminum-Pipe-3-420mm-2-340mm/32266064016.html)|1750р.|1|
 |[Стол для печатной поверхности](http://ru.aliexpress.com/item/3D-printer-DIY-reprap-Mendel-Prusa-i3-Z-axis-aluminum-printing-platform-bracket/32343466554.html)|1970p.|1|
 |[Набор болтов](http://ru.aliexpress.com/item/1-Set-Reprap-Mendel-Prusa-i3-Fasteners-Kit-Nuts-Bolts-Screws-DIY-3d-Printer-Screw-Set/32278439222.html)|1250р.|1|
+|[Гладкие стержни (комплект)](http://ru.aliexpress.com/item/6-pcs-set-Reprap-Wilson-TS-OD-8mm-Smooth-Rods-3D-Printer-XYZ-Rods-Free-Shipping/32319705576.html)| 2500р|1|
+
 
 ****
 [Экструдер V2](http://ru.aliexpress.com/item/3d-printer-accessories-Ultimaker2-double-nozzle-extrusion-head-hot-side-kit-3d-printer-extrusion-head/32374511915.html) 3800р.
@@ -23,8 +25,6 @@
 [Endstop V2](http://ru.aliexpress.com/item/5pcs-lot-Ultimaker-3d-Printer-Limit-Switch-OMRON-SS-5GL-5A-1-47N-Omron-OMRON-micro/32367587534.html) Комплект из 5шт 230р.
 
 [Источник питания V2](http://ru.aliexpress.com/store/product/Free-shipping-3D-printer-350W-12V-29A-S-350-12-AC-DC-switching-power-supply/915786_32214778532.html) 2200p.
-
-[Гладкие стержни (комплект)](http://ru.aliexpress.com/item/6-pcs-set-Reprap-Wilson-TS-OD-8mm-Smooth-Rods-3D-Printer-XYZ-Rods-Free-Shipping/32319705576.html) 2500р
 
 [Иструменты для отчистки сопла](http://ru.aliexpress.com/item/Free-shipping-3D-printer-accessories-nozzles-to-clean-the-nozzles-drill-0-4mm-each-0-3mm/1594677187.html) 1000p.
 
