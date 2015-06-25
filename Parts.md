@@ -13,9 +13,9 @@
 |[Шариковый подшипник](http://ru.aliexpress.com/item/10-pcs-Ball-Bearing-608-ZZ-8-x-22-x-7mm-carbon-steel-6082Z-for-3D/32368904451.html)|390р./набор из 10шт|1|
 |[Комплект проводов](http://ru.aliexpress.com/item/1-set-14pcs-cables-complete-wiring-cables-set-For-RAMPS-1-4-Endstops-Thermistors-Motor-3D/32321425415.html)|270р.|1|
 |[Трубка для пластика](http://ru.aliexpress.com/item/1M-ID-2mm-OD-4mm-Teflon-PTFE-Bawden-Pipe-for-3D-Printer-1-75mm-filament-Feeder/32295173727.html)|260|1|
-|[Профиль](http://ru.aliexpress.com/item/One-Set-Reprap-Wilson-TS-3D-Printer-frame-Aluminum-2020-extrusions-T-slot-Aluminum-Pipe-4/32373778020.html)|2200р.|1|
-
-
+|[Металические профили](http://ru.aliexpress.com/item/Reprap-ADAPTO-3D-Printer-frame-2020-Aluminum-extrusions-T-slot-Aluminum-Pipe-3-420mm-2-340mm/32266064016.html)|1750р.|1|
+|[Стол для печатной поверхности](http://ru.aliexpress.com/item/3D-printer-DIY-reprap-Mendel-Prusa-i3-Z-axis-aluminum-printing-platform-bracket/32343466554.html)|1970p.|1|
+|[Набор болтов](http://ru.aliexpress.com/item/1-Set-Reprap-Mendel-Prusa-i3-Fasteners-Kit-Nuts-Bolts-Screws-DIY-3d-Printer-Screw-Set/32278439222.html)|1250р.|1|
 
 ****
 [Экструдер V2](http://ru.aliexpress.com/item/3d-printer-accessories-Ultimaker2-double-nozzle-extrusion-head-hot-side-kit-3d-printer-extrusion-head/32374511915.html) 3800р.
@@ -26,4 +26,7 @@
 
 [Гладкие стержни (комплект)](http://ru.aliexpress.com/item/6-pcs-set-Reprap-Wilson-TS-OD-8mm-Smooth-Rods-3D-Printer-XYZ-Rods-Free-Shipping/32319705576.html) 2500р
 
+[Иструменты для отчистки сопла](http://ru.aliexpress.com/item/Free-shipping-3D-printer-accessories-nozzles-to-clean-the-nozzles-drill-0-4mm-each-0-3mm/1594677187.html) 1000p.
+
 [Экран + карт ридер](http://ru.aliexpress.com/item/Reprap-RAMPS1-4-2004-LCD-display-controlle-with-adapter-Mendel-Prusa-3D-Printer-free-shipping/32313112433.html) 840p.
+
