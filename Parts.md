@@ -13,10 +13,8 @@
 |[Шариковый подшипник](http://ru.aliexpress.com/item/10-pcs-Ball-Bearing-608-ZZ-8-x-22-x-7mm-carbon-steel-6082Z-for-3D/32368904451.html)|390р./набор из 10шт|1|
 |[Комплект проводов](http://ru.aliexpress.com/item/1-set-14pcs-cables-complete-wiring-cables-set-For-RAMPS-1-4-Endstops-Thermistors-Motor-3D/32321425415.html)|270р.|1|
 |[Трубка для пластика](http://ru.aliexpress.com/item/1M-ID-2mm-OD-4mm-Teflon-PTFE-Bawden-Pipe-for-3D-Printer-1-75mm-filament-Feeder/32295173727.html)|260|1|
-|[Профиль](http://ru.aliexpress.com/item/One-Set-Reprap-Wilson-TS-3D-Printer-frame-Aluminum-2020-extrusions-T-slot-Aluminum-Pipe-4/32373778020.html)|2200р.||
-||||
-||||
-||||
+|[Профиль](http://ru.aliexpress.com/item/One-Set-Reprap-Wilson-TS-3D-Printer-frame-Aluminum-2020-extrusions-T-slot-Aluminum-Pipe-4/32373778020.html)|2200р.|1|
+
 
 
 ****
