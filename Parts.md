@@ -11,9 +11,9 @@
 |[Ремень](http://ru.aliexpress.com/item/Free-Shipping-2Pcs-20-GT2-6-GT2-Pulley-And-2m-GT2-6mm-Open-GT2-Belt-for/32219364024.html)|$3.50 (200p.)/ комплект|1|
 |[Источник питания](http://ru.aliexpress.com/item/3D-printers-Taiwan-Meanwell-NES-350-12-350W-12V-29A-switching-power-supply-with-cord/32373602085.html)|3830p.|1|
 |[Шариковый подшипник](http://ru.aliexpress.com/item/10-pcs-Ball-Bearing-608-ZZ-8-x-22-x-7mm-carbon-steel-6082Z-for-3D/32368904451.html)|390р./набор из 10шт|1|
-|[Комплект проводов](http://ru.aliexpress.com/item/1-set-14pcs-cables-complete-wiring-cables-set-For-RAMPS-1-4-Endstops-Thermistors-Motor-3D/32321425415.html|270р.|1|
+|[Комплект проводов](http://ru.aliexpress.com/item/1-set-14pcs-cables-complete-wiring-cables-set-For-RAMPS-1-4-Endstops-Thermistors-Motor-3D/32321425415.html)|270р.|1|
 |[Трубка для пластика](http://ru.aliexpress.com/item/1M-ID-2mm-OD-4mm-Teflon-PTFE-Bawden-Pipe-for-3D-Printer-1-75mm-filament-Feeder/32295173727.html)|260|1|
-||||
+|[Профиль](http://ru.aliexpress.com/item/One-Set-Reprap-Wilson-TS-3D-Printer-frame-Aluminum-2020-extrusions-T-slot-Aluminum-Pipe-4/32373778020.html)|2200р.||
 ||||
 ||||
 ||||
