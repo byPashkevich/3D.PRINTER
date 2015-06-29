@@ -1,6 +1,6 @@
 # 3D.PRINTER
 
-Проект по созданию 3D принтера для компании *MSSG*
+Проект по созданию 3D принтера 
 
 3D Сканер [Makerbot Digitizer 85000p.](http://cvetmir3d.ru/3d-skanery/3d-printer-makerbot-3d-printer-makerbot/) 
 
