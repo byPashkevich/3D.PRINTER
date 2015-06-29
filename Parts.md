@@ -30,3 +30,6 @@
 
 [Экран + карт ридер](http://ru.aliexpress.com/item/Reprap-RAMPS1-4-2004-LCD-display-controlle-with-adapter-Mendel-Prusa-3D-Printer-free-shipping/32313112433.html) 840p.
 
+
+
+**Итог: 26 910р.**
