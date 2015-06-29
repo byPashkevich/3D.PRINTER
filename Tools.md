@@ -5,5 +5,3 @@
 |[Бита набор LUX 32 штуки](http://www.obi.ru/decom/product/%D0%91%D0%B8%D1%82%D0%B0%20%D0%BD%D0%B0%D0%B1%D0%BE%D1%80%20LUX%2032%20%D1%88%D1%82%D1%83%D0%BA%D0%B8/3115078?isi=true)|799p.|
 
 
-****
-[Смазка Циатим 201 20гр.](http://www.chipdip.ru/product0/31768/) 120p.
